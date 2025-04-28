@@ -11,9 +11,9 @@ id,name
 25m4-6qqq,NHIS Adult Summary Health Statistics
 26a7-nc4u,"Percentage of Drivers and Front Seat Passengers Wearing Seat Belts, 2012 & 2014, Region 5 - Chicago"
 28df-2bwy,"Prevalence of Selected Measures Among Adults Aged 20 and Over: United States, 1999-2000 through 2017-2018"
-28km-nz6e,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 4 - Atlanta"
+28km-nz6e,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 4 - Atlanta"
 2993-4v7d,NNDSS - TABLE 1II. Tetanus to Trichinellosis
-29ew-qk7z,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 3 - Philadelphia"
+29ew-qk7z,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 3 - Philadelphia"
 29hc-w46k,Weekly Rates of Laboratory-Confirmed RSV Hospitalizations from the RSV-NET Surveillance System
 29js-qshz,"NNDSS - TABLE 1J. Dengue virus infections, Dengue to Severe dengue"
 29xv-7ajw,NNDSS - TABLE 1KK. Vancomycin-intermediate Staphylococcus aureus to Varicella morbidity
@@ -81,7 +81,7 @@ id,name
 3q3z-9ucr,Healthy People 2020 Final Progress by Population Group Chart and Table
 3qs9-qnbs,"U.S. State and Territorial Gathering Bans: March 11, 2020-May 31, 2021 by County by Day"
 3rge-nu2a,Rates of COVID-19 Cases or Deaths by Age Group and Vaccination Status
-3se3-rwj2,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 9 - San Francisco"
+3se3-rwj2,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 9 - San Francisco"
 3sh4-uqpm,AH Sickle Cell Disease Provisional Death Counts 2019-2021
 3svv-v5nh,"NNDSS - Table 1D. Arboviral diseases, Western equine encephalitis virus disease to Babesiosis"
 3ts8-hsrw,"AH Provisional COVID-19 Deaths by Educational Attainment, Race, Sex, and Age"
@@ -169,7 +169,7 @@ id,name
 5jp2-pgaw,Vaccines.gov: COVID-19 vaccinating provider locations
 5mtz-k78d,"500 Cities: Census Tract-level Data (GIS Friendly Format), 2016 release"
 5nfe-wsjn,"NNDSS - TABLE 1OO. Viral hemorrhagic fevers, Machupo virus to Viral hemorrhagic fevers, Sabia virus"
-5nuu-6upy,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014,  Region 10 - Seattle"
+5nuu-6upy,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014,  Region 10 - Seattle"
 5p6r-d32s,"Percentage of Adults Who Report Driving After Drinking Too Much (in the past 30 days), 2012 & 2014, Region 5 - Chicago"
 5pe9-px25,"NNDSS - Table II. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection to Ehrlichia chaffeensis infection"
 5pqj-rvh4,NHIS Teen
@@ -189,11 +189,11 @@ id,name
 65xe-6neq,"NNDSS - Table II. Hepatitis (viral, acute)"
 66i6-hisz,Botulism
 66km-38zv,NCHS Research and Development Survey (RANDS) Round 3 during COVID-19 Restricted File
-68ej-h5ze,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 5 - Chicago"
+68ej-h5ze,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 5 - Chicago"
 68sm-zh95,NNDSS - Table 1H. Cholera to Coccidioidomycosis
 68zh-tyt3,University of Illinois at Chicago Health Policy Center - Funding Glossary and Methodology
 6dep-qtzm,"NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection to Ehrlichia chaffeensis infection"
-6i2x-3kw3,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 5 - Chicago"
+6i2x-3kw3,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 5 - Chicago"
 6ie8-bpiy,"NNDSS - TABLE 1HH. Syphilis, Congenital to Syphilis, Primary and Secondary"
 6jg4-xsqq,Weekly Rates of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System
 6jgb-zrsp,NNDSS - Table II. Spotted Fever Rickettsiosis to Syphilis
@@ -280,8 +280,8 @@ id,name
 8hus-y5nc,National Community Based Survey of Supports for Healthy Eating and Active Living  (CBS HEAL)
 8hxn-cvik,"Nutrition, Physical Activity, and Obesity - National Immunization Survey (Breastfeeding)"
 8hzs-zshh,Provisional drug overdose death counts for specific drugs
-8i5t-42wz,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 8 - Denver"
-8ihh-n7ic,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 6 - Dallas"
+8i5t-42wz,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 8 - Denver"
+8ihh-n7ic,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 6 - Dallas"
 8jp2-ecz7,"Weekly Cumulative Percentage of Children Ages 6 Months -17 Years who are up to date with the updated 2023-24 COVID-19 Vaccine, by Jurisdiction"
 8kbq-i8ii,NCHS - All-County Natality File with Exact Date of Birth
 8kjs-i662,"National Ambulatory Medical Care Survey, 2020-2021, restricted physician-only data"
@@ -386,7 +386,7 @@ akkj-j5ru,National Immunization Survey Adult COVID Module (NIS-ACM): Trends in V
 akmt-4qtj,CDC PRAMStat Data for 2006
 akn2-qxic,Weekly United States COVID-19 Hospitalization Metrics by County – ARCHIVED
 amjr-ph5r,"Weekly Differences in Cumulative Influenza Vaccination Coverage by Selected Demographics and by Season, 2024-25 and 2024-25 Compared with 2023-24, Children 6 Months -17 Years, United States"
-an65-3p9b,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, HHS Region 1 - Boston"
+an65-3p9b,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, HHS Region 1 - Boston"
 ap9g-4wiq,"NNDSS - TABLE 1HH. Streptococcal toxic shock syndrome to Syphilis, Primary and Secondary"
 ar8q-3jhn,2022–2023 Nationwide Blood Donor Seroprevalence Survey Combined Infection- and Vaccination-Induced Seroprevalence Estimates
 aspp-bzzu,"NNDSS - TABLE 1U. Leptospirosis to Listeriosis, Probable"
@@ -432,7 +432,7 @@ bk9t-cq4b,"NNDSS - TABLE 1PP. Yellow fever to Zika virus disease, non-congenital
 bkbr-drkm,"National Ambulatory Medical Care Survey, Public-use file, 1973-2019"
 bkcm-ybyk,dhds_dataset
 bkwy-pyv3,"NNDSS - TABLE 1W. Meningococcal disease, All serogroups to Meningococcal disease, Serogroup B"
-bptw-uw4i,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 2 - New York"
+bptw-uw4i,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 2 - New York"
 bqmb-vyka,NNDSS - Table 1H.  Cholera to Coccidioidomycosis
 bqse-bujd,"NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection to Ehrlichia chaffeensis infection"
 brsb-akdp,"Weekly Cumulative Updated 2023-24 COVID-19 Vaccination Coverage, by Race and Ethnicity, Medicare Fee-For-Service Beneficiaries aged ≥65 years, United States, Data Source: Centers for Medicare & Medicaid Services Chronic Conditions Warehouse"
@@ -535,11 +535,11 @@ e8fc-yrqd,"Percentage of Adults Who Report Driving After Drinking Too Much (in t
 e8kx-wbww,"NCHS - Teen Birth Rates for Females by Age Group, Race, and Hispanic Origin: United States"
 e92c-t3mi,Going Smokefree Matters - Bars and Restaurants Infographic
 e9r5-5hjr,New Chikungunya Cases Reported in the Americas
-ea3z-m7eh,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 7 - Kansas City"
+ea3z-m7eh,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 7 - Kansas City"
 eanj-9nie,"Weekly Differences in Cumulative COVID-19 Vaccination Coverage and Comparison Between 2024–25 and 2023–24, Overall, by Jurisdiction Among Adults 18 Years"
 eav7-hnsx,"PLACES: Local Data for Better Health, Place Data 2024 release"
 eb4y-d4ic,CDC STATE System Tobacco Legislation - Licensure
-ebbj-sh54,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, All States"
+ebbj-sh54,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, All States"
 ebcc-3d5i,Table of Excise Taxes on Combustible Tobacco Products (CDC STATE System Tobacco Legislation - Tax)
 eddk-effy,The β-adrenergic receptor blocker and anti-inflammatory drug propranolol mitigates brain cytokine expression in a long-term model of Gulf War Illness
 edkk-ze78,"Non-Medical Factor Measures for Place, ACS 2017-2021"
@@ -594,7 +594,7 @@ fhc9-h3em,NNDSS - Table II. Cryptosporidiosis to Dengue virus infection
 fhky-rtsk,Vaccination Coverage among Young Children (0-35 Months)
 fip8-rcng,The Tax Burden on Tobacco Glossary and Methodology
 fj6i-3v3k,"NNDSS - TABLE 1Q. Hepatitis B, perinatal infection to Hepatitis C, acute, Probable"
-fj6s-ssz6,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 2 - New York"
+fj6s-ssz6,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 2 - New York"
 fkfk-2j5x,"Percentage of Drivers and Front Seat Passengers Wearing Seat Belts, 2012 & 2014, Region 9 - San Francisco"
 fpqb-s69d,"Daily Census Tract-Level PM2.5 Concentrations, 2006-2010"
 fpsi-y8tj,"Mapping Injury, Overdose, and Violence - State"
@@ -786,7 +786,7 @@ k86t-wghb,"500 Cities: Census Tract-level Data (GIS Friendly Format), 2019 relea
 k87d-gv3u,Weekly Cumulative Doses (in Millions) of Influenza Vaccine Distributed by Flu Season in the United States
 k8w5-7ju6,"Nutrition, Physical Activity, and Obesity - Policy and Environmental Data"
 k8wy-p9cg,"Provisional COVID-19 Deaths by County, and Race and Hispanic Origin"
-k9ai-xgx2,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 6 - Dallas"
+k9ai-xgx2,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 6 - Dallas"
 ke78-phpe,National Weekly Moderna Allocations
 kebt-3t25,"NNDSS - TABLE 1Z. Pertussis to Poliomyelitis, paralytic"
 kee5-23sr,"PLACES: ZCTA Data (GIS Friendly Format), 2024 release"
@@ -816,7 +816,7 @@ krhz-spsc,NHIS Adult 3-Year Summary Health Statistics
 krkm-t59m,PONE-D-15-23803
 krqc-563j,"PLACES: Local Data for Better Health, Place Data 2023 release"
 ks3g-spdg,"Provisional COVID-19 Deaths by Race and Hispanic Origin, and Age"
-ksf9-pem2,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 1 - Boston"
+ksf9-pem2,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 1 - Boston"
 ksfb-ug5d,"Weekly Cumulative COVID-19 Vaccination Coverage and Intent, Overall, by Selected Demographics and Jurisdiction, Among Adults 18 Years and Older"
 ktba-rcfx,Data Update Notice
 ku7p-zn4c,"Monthly Cumulative Number and Percent of Children <20 Months Who Received Nirsevimab by Age Group and Jurisdiction, United States"
@@ -954,7 +954,7 @@ puin-6ss7,"NNDSS - TABLE 1W. Meningococcal disease, All serogroups to Meningococ
 puzh-5wax,"Number of Reported Malaria Cases by County— United States, 2017"
 pvk6-8bzd,"Weekly COVID-19 Vaccination Coverage Among Pregnant Women 18-49 Years, by Race and Ethnicity"
 pvr7-gpk4,"Percentage of Adults Who Report Driving After Drinking Too Much (in the past 30 days),  2012 & 2014, Region 7 - Kansas City"
-pvxp-wfpg,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 3 - Philadelphia"
+pvxp-wfpg,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 3 - Philadelphia"
 pwgb-7r9t,Tests for antibodies to trachoma PGP3 antigen
 pwn4-m3yp,Weekly United States COVID-19 Cases and Deaths by State - ARCHIVED
 px5t-5gtx,Drug-Involved Mortality (DIM) data available through the Research Data Center (RDC)
@@ -1018,7 +1018,7 @@ r8kw-7aab,Provisional COVID-19 Death Counts by Week Ending Date and State
 r9mz-pvtk,"NNDSS - TABLE 1S. Invasive pneumococcal disease, all ages, Confirmed to Invasive pneumococcal disease, all ages, Probable"
 r9ns-zmra,Feasibility of a Selective Epoxidation Technique for Use in Quantification of Peracetic Acid in Air Samples Collected on Sorbent Tubes-Dataset
 r9nv-zxge,Public-Use Linked Mortality Files
-rb93-4tgj,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 4 - Atlanta"
+rb93-4tgj,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 4 - Atlanta"
 rbj6-gv57,Developing a Solution for Nasal and Olfactory Transport of Nanomaterials
 rbrz-y4zd,NNDSS - TABLE 1JJ. Tuberculosis to Tularemia
 rcdh-n3ej,NNDSS - TABLE 1EE. Salmonella Paratyphi infection to Salmonellosis (excluding Salmonella Typhi infection and Salmonella Paratyphi infection)
@@ -1045,7 +1045,7 @@ rpjd-ejph,TABLE III. Deaths in 122 U.S. cities
 rppv-wbiv,Top syndicated pages from CDC.gov by weekly page views
 rpvx-m2md,NCHS - Drug Poisoning Mortality by County: United States
 rq85-buyi,Monthly Page Views to CDC.gov
-rqg5-mkef,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, All States"
+rqg5-mkef,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, All States"
 rsk5-566a,"Cardiovascular Disease Death Rates, Trends, and Excess Death Rates Among US Adults (35+) by County and Age Group – 2010-2020"
 rsk8-spa7,"NNDSS - TABLE 1PP. Yellow fever to Zika virus disease, non-congenital"
 rtjs-ain8,NNDSS - TABLE 1KK. Vancomycin-intermediate Staphylococcus aureus to Varicella morbidity
@@ -1130,7 +1130,7 @@ u2nj-bus9,"NNDSS - TABLE 1Z. Pertussis to Poliomyelitis, paralytic"
 u3yt-gdfa,NNDSS - Table III. Tuberculosis
 u4vw-xsmf,Household Pulse Survey (HPS): COVID-19 Vaccination among People with Disabilities
 u5bf-rqpa,Top 12 Science Clips Subject Headings
-u5yv-9uts,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 7 - Kansas City"
+u5yv-9uts,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 7 - Kansas City"
 u6jv-9ijr,Weekly Counts of Death by Jurisdiction and Select Causes of Death
 u76f-m89e,CDC PRAMStat Data for 2003
 u7e4-s8zi,"NNDSS - TABLE 1M. Gonorrhea to Haemophilus influenzae, invasive disease, Age <5 years, Serotype b"
@@ -1274,7 +1274,7 @@ x7zy-2xmx,500 Cities: Census Tract Boundaries
 x8jf-txib,NNDSS - TABLE 1FF. Severe acute respiratory syndrome-associated coronavirus disease to Shigellosis
 x8ni-jytx,"NNDSS - TABLE 1NN. Viral hemorrhagic fevers, Junin virus to Viral hemorrhagic fevers, Lujo virus"
 x9gk-5huc,NNDSS Weekly Data
-x9gq-59r3,"Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 10 - Seattle"
+x9gq-59r3,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 10 - Seattle"
 xa4b-4pzv,"Deaths by Sex, Ages 0-18 years"
 xb3p-q62w,Indicators of Reduced Access to Care Due to the Coronavirus Pandemic During Last 4 Weeks
 xbk2-5i4e,"Standardized Precipitation Index, 1895-2016"
@@ -1305,7 +1305,7 @@ xs7u-t3bn,Alzheimer's Disease and Healthy Aging Indicators: Caregiving
 xsi2-33p5,NNDSS - TABLE 1H. Cholera to Coccidioidomycosis
 xssa-9qw5,"NNDSS - TABLE 1DD. Rubella to Rubella, congenital syndrome"
 xsta-sbh5,CDC STATE System Tobacco Legislation - Preemption
-xsu4-4sk9,"Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014,  Region 9 - San Francisco"
+xsu4-4sk9,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014,  Region 9 - San Francisco"
 xt86-xqxz,"Visits to physician offices, hospital outpatient departments, and hospital emergency departments, by age, sex, and race: United States"
 xuah-ug7z,NNDSS - Table II. Babesiosis to Campylobacteriosis
 xup8-ahj8,Firefighter Body Dimensions for Updating Safety Specifications for Fire Apparatus and Firefighter Protective Equipment
