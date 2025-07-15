@@ -46,9 +46,9 @@ id,name
 338g-fx72,Testing the shock protection performance of Type I construction helmets using impactors of different masses
 33kn-dpz2,NNDSS - Table II. Legionellosis to Malaria
 34p9-h4us,HAICViz - Candidemia
-35bp-whkw,DEV DQS NHIS Children Summary Statistics
+35bp-whkw,DQS NHIS Children Summary Statistics
 367e-pucc,"Preliminary Estimates of Visits to Health Centers in the United States, January 2022-December 2024"
-36ue-xht5,DEV DQS NHANES Select Oral Health Prevalence Estimates
+36ue-xht5,DQS NHANES Select Oral Health Prevalence Estimates
 36v4-xsse,National Post-acute and Long-term Care Study Adult Day Participant File
 372p-dx3h,"Daily Census Tract-Level Ozone Concentrations, 2011-2014"
 373s-ayzu,"PLACES: Local Data for Better Health, Census Tract Data 2021 release"
@@ -96,7 +96,6 @@ id,name
 45um-c62r,"Rates of TBI-related Emergency Department Visits, Hospitalizations, and Deaths - United States, 2001 – 2010"
 473a-5348,ASTDD Synopses of State Oral Health Programs - States with dental directors or statewide oral health coalitions
 484g-ihkb,NNDSS - TABLE 1U. Legionellosis to Listeriosis
-4892-xxjy,"DQS Death rates for heart disease, by sex, race, Hispanic origin, and age: United States from CDC WONDER"
 489q-934x,NCHS - VSRR Quarterly provisional estimates for selected indicators of mortality
 48ev-2ygq,DQS NHIS Children Summary Statistics Footnotes
 48mw-5apu,Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County
@@ -151,7 +150,6 @@ id,name
 55yu-xksw,Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County – 2019-2021
 56mi-d4wu,NNDSS - TABLE 1GG. Smallpox to Streptococcal toxic shock syndrome
 57qw-ifet,Global Tobacco Surveillance System (GTSS) - Global Youth Tobacco Survey (GYTS)
-59vz-u8kg,DQS NHANES Select Oral Health Prevalence Estimates
 5amh-5sx3,Behavior Risk Factor Surveillance System (BRFSS) Glossary and Methodology
 5avu-ff58,NNDSS - Table II. Tuberculosis
 5b7j-usbu,Lung Toxicity Profile of Inhaled Copper-Nickel Welding Fume in A/J Mice
@@ -200,7 +198,7 @@ id,name
 68sm-zh95,NNDSS - Table 1H. Cholera to Coccidioidomycosis
 68zh-tyt3,University of Illinois at Chicago Health Policy Center - Funding Glossary and Methodology
 6dep-qtzm,"NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection to Ehrlichia chaffeensis infection"
-6gct-yv67,DEV DQS NHIS Adult Summary Health Statistics
+6gct-yv67,DQS NHIS Adult Summary Health Statistics
 6i2x-3kw3,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 5 - Chicago"
 6ie8-bpiy,"NNDSS - TABLE 1HH. Syphilis, Congenital to Syphilis, Primary and Secondary"
 6jg4-xsqq,Weekly Rates of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System
@@ -240,7 +238,7 @@ id,name
 76vv-a7x8,NCHS - VSRR Quarterly provisional estimates for selected birth indicators
 783t-9j9i,dhds_dataset
 7873-6w4v,AH Provisional COVID-19 Deaths Counts by Health Service Area
-7aq9-prdf,"DEV DQS Death rates for heart disease, by sex, race, Hispanic origin, and age: United States from CDC WONDER"
+7aq9-prdf,"DQS Death rates for heart disease, by sex, race, Hispanic origin, and age: United States from CDC WONDER"
 7b9s-s8ck,"Rates and Trends in Heart Disease and Stroke Mortality Among US Adults (35+) by County, Age Group, Race/Ethnicity, and Sex – 2000-2019"
 7cmc-7y5g,"PLACES: County Data (GIS Friendly Format), 2023 release"
 7dk4-g6vg,Weekly United States COVID-19 Hospitalization Metrics by Jurisdiction – ARCHIVED
@@ -286,7 +284,7 @@ id,name
 8bda-nhxv,Active Bacterial Core surveillance (ABCs) Neisseria meningitidis
 8cyw-fici,"NNDSS - TABLE 1L. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection to Giardiasis"
 8dyx-9z99,"Cumulative Influenza Vaccination Coverage by Race/Ethnicity and Age Group, NIS-ACM (Archived)"
-8ekv-ep3s,DEV DQS NHANES Select Mean Dietary Intake Estimates
+8ekv-ep3s,DQS NHANES Select Mean Dietary Intake Estimates
 8ezu-y38w,"NNDSS - TABLE 1Q. Hepatitis B, perinatal infection to Hepatitis C (viral, acute), Probable"
 8fbp-accd,"Weekly Influenza Vaccination Coverage Among Pregnant Women 18-49 Years, by Race and Ethnicity"
 8ggw-jwph,Examination of the exposome in an animal model: the impact of high fat diet and rat strain on local and systemic immune markers following occupational welding fume exposure
@@ -419,7 +417,6 @@ b36e-ru3r,NNDSS - Table II. Cryptosporidiosis to Dengue Hemorrhagic Fever
 b4av-siev,"Rates of TBI-related Emergency Department Visits, Hospitalizations, and Deaths by Sex - United States, 2001 – 2010"
 b58h-s9zx,Provider Relief Fund COVID-19 High-Impact Payments
 b5mu-3rk7,Exposure to the antimicrobial chemical triclosan disrupts keratinocyte function and skin integrity in a model of reconstructed human epidermis
-b5qi-b3hv,DQS NHIS Children Summary Statistics
 b5wa-ze9s,CDT_INDIVIDUAL_LINEAGES_BY_WEEK_LOCAL_PIVOTED
 b666-c5v5,"DQS Prescription drug use in the past 30 days, by sex, race and Hispanic origin, and age group: United States"
 b68w-a53h,NanoSpotTM Collector for Aerosol Sample Collection for Direct Microscopy and Spectroscopy Analysis-Dataset
@@ -434,7 +431,6 @@ bbhn-4mdn,"Selected Trend Table from Health, United States, 2011. Health conditi
 bc4h-zh8r,v-safe mpox
 bdsk-unrd,"PLACES: ZCTA Data (GIS Friendly Format), 2020 release"
 bdyv-z46f,dhds_dataset
-be3w-4inw,DQS NHANES Select Infectious Diseases Prevalence Estimates
 be57-s94j,"DEV DQS Normal weight, overweight, and obesity among adults aged 20 and over, by selected characteristics: United States"
 bfe6-2gyq,"NNDSS - Table II. Mumps to Rabies, animal"
 bfqg-cb6d,Provider Relief Fund COVID-19 Nursing Home Quality Incentive Program
@@ -454,7 +450,7 @@ bqse-bujd,"NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytop
 brsb-akdp,"Weekly Cumulative Updated 2023-24 COVID-19 Vaccination Coverage, by Race and Ethnicity, Medicare Fee-For-Service Beneficiaries aged ≥65 years, United States, Data Source: Centers for Medicare & Medicaid Services Chronic Conditions Warehouse"
 bst4-hnte,JMK_DHDS_POC
 btcp-84tv,"NNDSS - Table II. Hepatitis (viral, acute, by type) A & B"
-btv3-srcc,DQS NHIS Functional limitation in adults age 18 and older by selected characteristics United States
+btv3-srcc,DQS NHIS Functioning difficulties in adults age 18 and older by selected characteristics United States
 bucw-etpd,Rat-Tail Models for Studying Hand-Arm Vibration Syndrome:  A Comparison between Living and Cadaver Rat Tails
 bugr-bbfr,Vaccines.gov: Flu vaccinating provider locations
 bumh-rgsq,"Non-Medical Factor Measures for ZCTA, ACS 2017-2021"
@@ -521,7 +517,6 @@ d9u6-mdu6,An aggregated dataset of day 3 post-inoculation viral titer measuremen
 ddsk-zebd,"NCHS - Infant Mortality Rates, by Race: United States, 1915-2013"
 de4p-4g3k,National Survey of Children’s Health (NSCH) – Vision and Eye Health Surveillance
 dgwc-f5xf,"DPM OC, EC and FT-IR data (Quantifying elemental and organic carbon in diesel particulate matter by mid infrared spectrometry)."
-dh32-cnpq,"DQS Drug overdose death rates, by drug type, sex, age, race, and Hispanic origin: United States from CDC WONDER"
 dj4t-wmry,"DQS Low birthweight live births, by race and Hispanic origin of mother, state, and territory: United States and U.S. dependent areas"
 djj9-kh3p,Vaccine Hesitancy for COVID-19: Public Use Microdata Areas (PUMAs)
 djk3-k3zs,"500 Cities: City-level Data (GIS Friendly Format), 2017 release"
@@ -548,7 +543,7 @@ dxpw-cm5u,"500 Cities: City-level Data (GIS Friendly Format), 2019 release"
 dy4n-fbwg,NNDSS - TABLE 1KK. Vancomycin-resistant Staphylococcus aureus to Varicella morbidity
 e28h-tx85,Medicare Fee for Service (FFS) claims (100%) – Vision and Eye Health Surveillance
 e2d5-ggg7,VSRR Provisional Maternal Death Counts and Rates
-e4ec-z5aa,"DEV DQS Estimate of Emergency Department Visits in the United States, 2016-2022"
+e4ec-z5aa,"DQS Estimate of Emergency Department Visits in the United States, 2016-2022"
 e539-uadk,"Non-Medical Factor Measures for Census Tract, ACS 2017-2021"
 e5zk-7tx5,Weekly Cumulative Influenza Vaccine Doses Distributed in the United States
 e6fc-ccez,NCHS - Births and General Fertility Rates: United States
@@ -808,7 +803,6 @@ k5bc-k3g8,DASH - Youth Risk Behavior Surveillance System (YRBSS): Middle School
 k5dc-apj8,"AH Provisional COVID-19 Deaths by HHS Region, Race, and Age, 2015 to date"
 k5tv-6cfx,Disability-Related Disparities in Cigarette Smoking Among Adults
 k62p-6esq,Disability and Health Data System (DHDS)
-k6sd-3kb8,"DQS Estimate of Emergency Department Visits in the United States, 2016-2022"
 k86t-wghb,"500 Cities: Census Tract-level Data (GIS Friendly Format), 2019 release"
 k87d-gv3u,Weekly Cumulative Doses (in Millions) of Influenza Vaccine Distributed by Flu Season in the United States
 k8w5-7ju6,"Nutrition, Physical Activity, and Obesity - Policy and Environmental Data"
@@ -902,7 +896,6 @@ muzy-jte6,"Weekly Provisional Counts of Deaths by State and Select Causes, 2020-
 mv87-mh7a,"NNDSS - TABLE 1GG. Spotted fever rickettsiosis, Confirmed to Smallpox"
 mvaf-qxac,NNDSS - TABLE 1EE. Salmonella Paratyphi infection to Salmonellosis (excluding Salmonella Typhi infection and Salmonella Paratyphi infection)
 mvsw-zuaf,NNDSS - TABLE 1FF. Severe acute respiratory syndrome-associated coronavirus disease to Shigellosis
-mvup-dmxz,DQS NHANES Select Chronic Conditions Prevalence Estimates
 mwk9-wnfr,"AH Cumulative Provisional COVID-19 Deaths by Sex, Race, and Age from 1/1/2020 to 7/28/2020"
 mwkk-wzmy,"NNDSS - TABLE 1Q. Hepatitis B, perinatal infection to Hepatitis C, acute, Probable"
 myzw-mrfh,"National Electronic Health Records Survey, Restricted data: 2012-2015, 2017-2019, 2021"
@@ -949,7 +942,6 @@ nxu4-tewx,NCHS Survey Data Linked to Department of Veterans Affairs Administrati
 p4r5-qsgs,"DQS Delay or nonreceipt of needed medical care, prescription drugs, or dental care during the past 12 months due to cost: United States(Archived)"
 p56q-jrxg,NCHS - Drug Poisoning Mortality by County: United States
 p6r5-duca,Age-Related Disparities in Cigarette Smoking Among Adults
-p7se-k3ix,"DQS Death rates for suicide, by sex, race, Hispanic origin, and age: United States from CDC WONDER"
 p89x-xx88,NCHS Rapid Surveys System
 p8ia-4jqj,NNDSS - TABLE 1I. Cryptosporidiosis to Cyclosporiasis
 p8tr-pquj,SAMHSA Synar Reports: Youth Tobacco Sales Glossary and Methodology
@@ -959,7 +951,6 @@ pbkm-d27e,NCHS - Drug Poisoning Mortality by County: United States
 pbq2-7wr2,Monthly Rates of Laboratory-Confirmed RSV Hospitalizations from the RSV-NET Surveillance System
 pd5g-36s6,dhds_dataset
 pf7q-w24q,"500 Cities: City-level Data (GIS Friendly Format), 2018 release"
-pg2r-sfcx,DQS NHIS Adult Summary Health Statistics
 pgaa-i327,Systemic and immunotoxicity induced by topical application of perfluorohexane sulfonic acid (PFHxS) in a murine model
 ph8r-wzxn,"Weekly Cumulative Doses (in Millions) of Influenza Vaccines Distributed by Season, United States"
 phkb-u384,Modeling Neuroimmune Interactions in Human Subjects and Animal Models to Predict Subtype Specific Multidrug Treatments for Gulf War Illness
@@ -971,7 +962,7 @@ pj7z-f3xf,CDC PRAMStat Data for 2005
 pjb2-jvdr,"DQS Infant mortality rates, by race and Hispanic origin of mother, state, and territory: United States and U.S. dependent areas (Archived)"
 pjtk-n43k,"NNDSS - Table 1B. Arboviral diseases, Jamestown Canyon virus disease to Powassan virus disease"
 pkas-xr96,NNDSS - Table IV. Tuberculosis
-pket-re4s,DEV DQS NHANES Select Chronic Conditions Prevalence Estimates
+pket-re4s,DQS NHANES Select Chronic Conditions Prevalence Estimates
 pmxu-gsdm,Graph of Rates of Teeth Cleaning During Pregnancy
 pp7x-dyj2,"Deaths from Pneumonia and Influenza (P&I) and all deaths, by state and region, National Center For Health Statistics Mortality Surveillance System"
 ppmd-3u54,"NNDSS - TABLE 1MM. Viral hemorrhagic fevers, Crimean-Congo hemorrhagic fever virus to Guanarito virus"
@@ -1217,9 +1208,9 @@ v5gm-kvkn,"Health, United States"
 v5qq-ktfc,"Daily Census Tract-Level PM2.5 Concentrations, 2001-2005"
 v6ab-adf5,NCHS - Childhood Mortality Rates
 v6bq-c4f3,Effects of whole-body vibration on reproductive physiology in a rat model
-v728-xui5,DQS NHIS Functional Limitation Footnotes
+v728-xui5,DQS NHIS Functioning difficulties footnotes
 v76h-zdce,"Daily Census Tract-Level Ozone Concentrations, 2001-2005"
-v7tk-n6v3,DEV DQS NHANES Select Infectious Diseases Prevalence Estimates
+v7tk-n6v3,DQS NHANES Select Infectious Diseases Prevalence Estimates
 va5e-efw9,"DEV DQS Hypertension in adults age 20 and older, by selected characteristics: United States."
 vac9-j9wr,"DQS Fetal, late fetal, and perinatal mortality rates, by detailed race and Hispanic origin of mother United States"
 vaca-65fb,National Hospital Care Survey (NHCS) linked to Department of Veterans Affairs Administrative Data Files
@@ -1262,7 +1253,7 @@ vyry-2yfg,CDC.gov CleanSlate and Relaunch URL Mappings
 vzfn-ifh5,"NNDSS - TABLE 1L. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection to Giardiasis"
 vzr2-2rzq,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease (by Race)
 vzz2-3hb7,ASTDD Synopses of State Oral Health Programs - Number of health agencies serving large jurisdictions with a dental program directed by a dental professional with public health training
-w26f-tf3h,"DEV DQS Death rates for suicide, by sex, race, Hispanic origin, and age: United States from CDC WONDER"
+w26f-tf3h,"DQS Death rates for suicide, by sex, race, Hispanic origin, and age: United States from CDC WONDER"
 w46e-8kr3,"NNDSS - Table 1B. Arboviral diseases, Jamestown Canyon virus disease to Powassan virus disease"
 w47j-r23n,"Smoking-Attributable Mortality, Morbidity, and Economic Costs (SAMMEC) - Smoking-Attributable Mortality (SAM) Glossary and Methodology"
 w4cs-jspc,"Initial injury-related visits to hospital emergency departments, by sex, age, and intent and mechanism of injury: United States"
@@ -1323,7 +1314,6 @@ xa9f-vciy,Multi-walled carbon nanotubes activate the NLRP3 inflammasome-dependen
 xb3p-q62w,Indicators of Reduced Access to Care Due to the Coronavirus Pandemic During Last 4 Weeks
 xbk2-5i4e,"Standardized Precipitation Index, 1895-2016"
 xbxb-epbu,NCHS - Drug Poisoning Mortality by State: United States
-xcc8-2jrh,DQS NHANES Select Mean Dietary Intake Estimates
 xcz7-jei9,NCHS Survey Data Linked to the Department of Housing and Urban Development (HUD) Housing Assistance Program Files
 xd2k-siai,Potent Lung Tumor Promotion by Inhaled MWCNT
 xdg2-nh8n,Going Smokefree Matters - Casinos Infographic
