@@ -110,12 +110,10 @@ id,name
 4ems-va7k,Total Inward Leakage (TIL) for Respiratory Protective Devices
 4ewf-ciy6,"NNDSS - TABLE 1C. Arboviral diseases, St. Louis encephalitis virus to Western equine encephalitis virus"
 4g6p-3ed6,"Weekly Differences in Cumulative Influenza Vaccination Coverage and Comparison Between 2024-25 and 2023-24 Among Adults 18 Years, Overall, by Selected Demographics"
-4giy-47wy,"DQS Death rates for malignant neoplasms, by sex, race, Hispanic origin, and age: United States"
 4j6x-nm2a,Projectile Fluid Penetration and Flammability of Respirators and other Head/Facial Personal Protective Equipment (FPFPPE)
 4jje-6vv6,"NNDSS - TABLE 1W. Meningococcal disease, All serogroups to Meningococcal disease, Serogroup B"
 4khb-4xch,Environmental Antecedents of Foodborne Illness Outbreaks
 4kiq-5hwz,Article Types
-4kn2-jirk,"DQS Use of selected substances in the past 30 days among 12th graders, 10th graders, and 8th graders, by sex and race: United States"
 4m2e-y29d,"MicroRNA-Mediated Calcineurin Signaling Activation Induces CCL2, CCL3, CCL5, IL8 and Chemotactic Activities in 4,4’-Methylene Diphenyl Diisocyanate Exposed Macrophages"
 4ntf-u76j,Race and Ethnic Disparities in Cigarette Smoking Among Adults
 4q35-rqzk,"DQS Hospital admission, average length of stay, outpatient visits, and outpatient surgery by type of ownership and size of hospital: United States"
@@ -258,7 +256,7 @@ id,name
 7pvw-pdbr,United States COVID-19 County Level Data Sources - ARCHIVED
 7rci-qmm9,NNDSS - TABLE 1GG. Smallpox to Streptococcal toxic shock syndrome
 7rih-tqi5,"CDC Text Corpora for Learners: MMWR, EID, and PCD Article Metadata"
-7siw-u4fz,"DEV DQS Health care employment and wages, by selected occupations: United States"
+7siw-u4fz,"DQS Health care employment and wages, by selected occupations: United States"
 7ssk-h5k2,2004 National Nursing Home Survey - Restricted Facility Dataset
 7vg3-e5u2,county-level ASD prevalence estimates
 7vnz-2mjz,"NNDSS - Table II. Hepatitis (viral, acute)"
@@ -655,7 +653,7 @@ grbx-2j68,Graph of Alcohol Use 3 Months Before and Last 3 Months of Pregnancy
 gsea-w83j,Post-COVID Conditions
 gt5d-asw4,SocrataDataRefresh_Test
 gt7a-q73y,Revealing the Structural and Chemical Properties of Copper-based Nanoparticles Released from Copper Treated Wood-Dataset
-gu48-2cs8,DEV DQS Personal healthcare spending: United States
+gu48-2cs8,DQS Personal healthcare spending: United States
 gui6-i83p,"NNDSS - TABLE 1T. Invasive pneumococcal disease, age<5 , Confirmed to Invasive pneumococcal disease, age <5, Probable"
 gvsb-yw6g,"Percent Positivity of COVID-19 Nucleic Acid Amplification Tests by HHS Region, National Respiratory and Enteric Virus Surveillance System"
 gxj9-t96f,"Archive: COVID-19 Vaccination and Case Trends by Age Group, United States"
@@ -663,7 +661,7 @@ gypc-kpgn,Drug Use Data from Selected Hospitals
 gz3p-wzwf,NNDSS - Table II. Ehrlichiosis and Anaplasmosis
 h28b-t43q,"Population-Weighted Ultraviolet Irradiance, 2004-2015"
 h3ej-a9ec,"PLACES: Local Data for Better Health, County Data 2023 release"
-h3hw-hzvg,"DEV DQS Death rates for malignant neoplasms, by sex, race, Hispanic origin, and age: United States"
+h3hw-hzvg,"DQS Death rates for malignant neoplasms, by sex, race, Hispanic origin, and age: United States"
 h3kf-bqpq,NNDSS - Table 1G. Carbapenemase-producing carbapenem-resistant Enterobacteriaceae to Chlamydia trachomatis infection
 h3my-dzpj,dhds_dataset
 h4pd-hu6x,"NNDSS - Table 1C. Arboviral diseases, St. Louis encephalitis virus disease to West Nile virus disease"
@@ -753,7 +751,7 @@ iz46-hpaa,"Percentage of Drivers and Front Seat Passengers Wearing Seat Belts, 2
 j32a-sa6u,Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (2011 to Present)
 j63e-g9bn,Agreement of hip kinematics between two tracking marker configurations used with the 1 CODA pelvis during ergonomic roofing tasks
 j6gu-p9yd,"NNDSS - TABLE 1BB. Q fever, Total to Q fever, Chronic"
-j7ym-uwqy,"DEV DQS Infant, neonatal, and postneonatal mortality rates, by detailed race and Hispanic origin of mother: United States"
+j7ym-uwqy,"DQS Infant, neonatal, and postneonatal mortality rates, by detailed race and Hispanic origin of mother: United States"
 j8jk-5ztv,BRFSS Prevalence And Trends Data: Tobacco Use - Adults Who Are Current Smokers for 1995-2010
 j9id-xrm6,NNDSS - Table II. Ehrlichiosis/Anaplasmosis
 jb9g-gnvr,Indicators of Health Insurance Coverage at the Time of Interview
@@ -852,7 +850,6 @@ m4es-3af4,"Selected Trend Table from Health, United States, 2011. Low birthweigh
 m5zs-rf6r,NNDSS - Table II. West Nile virus disease
 m6gf-vfkz,NNDSS - Table II. Giardiasis to Haemophilus influenza
 m74n-4hbs,"AH Excess Deaths by Sex, Age, and Race and Hispanic Origin"
-m7w3-utaq,"DQS Infant, neonatal, and postneonatal mortality rates, by detailed race and Hispanic origin of mother: United States"
 m8jv-u92i,"NNDSS - TABLE 1X. Meningococcal disease, Other serogroups to Meningococcal disease, Unknown serogroup"
 m97v-d4fn,NCHS Survey Data Linked to National Death Index (NDI) Mortality Files
 mawz-airi,"AH Provisional COVID-19 Deaths by Age, United States, Week 40 2020 through Week 39 2021"
@@ -988,7 +985,6 @@ q8j9-sue7,"NNDSS - Table 1C. Arboviral diseases, St. Louis encephalitis virus di
 q8qz-3pb6,Efficacy of universal masking for source control and personal protection from simulated respiratory aerosols in a room
 q8w2-qsck,AlleganSPI
 q8xq-ygsk,"PLACES: Local Data for Better Health, Place Data 2020 release"
-q9cb-be9u,"DQS Health care employment and wages, by selected occupations: United States"
 q9mh-h2tw,Vaccine Hesitancy for COVID-19: County and local estimates
 q9sm-44y3,"NNDSS - TABLE 1AA.  Poliovirus infection, nonparalytic to Psittacosis"
 q9tu-7yha,Fatality Assessment and Control Evaluation (FACE) Program
@@ -1073,7 +1069,7 @@ rwap-xbst,"NNDSS - TABLE 1S. Invasive pneumococcal disease, all ages, Confirmed 
 rxmp-xjpc,NNDSS - Table II. West Nile to Zika
 s2qv-b27b,DHDS - Prevalence of Disability Status and Types
 s54h-bixi,NCHS - Natality Measures for Females by Hispanic Origin Subgroup: United States
-s57w-7gbe,DEV DQS National health spending: United States
+s57w-7gbe,DQS National health spending: United States
 s5a6-fn5p,National Immunization Survey Child COVID Module (NIS-CCM): COVIDVaxViews| Data | Centers for Disease Control and Prevention (cdc.gov)
 s5en-5rpd,2004 National Nursing Home Survey - Restricted Current Resident Dataset
 s5hu-2eck,Ability to handle a COVID-19 outbreak (CVAC)
@@ -1194,7 +1190,7 @@ v2k9-ctv4,National Artesunate for Severe Malaria Program Microscopy Data- April 
 v2mh-3yzr,"NNDSS - TABLE 1A. Anthrax to Arboviral diseases, Eastern equine encephalitis virus disease"
 v2pi-w3up,Provider Relief Fund & Accelerated and Advance Payments
 v2zw-2d2v,"Weekly COVID-19 cases among persons ≥5 years old among unvaccinated and vaccinated with a BNT162b2 (Pfizer-BioNTech) primary series by age group — 22 U.S. jurisdictions, January 16 to May 28, 2022"
-v3ih-gzx4,"DEV DQS Use of selected substances in the past 30 days among 12th graders, 10th graders, and 8th graders, by sex and race: United States"
+v3ih-gzx4,"DQS Use of selected substances in the past 30 days among 12th graders, 10th graders, and 8th graders, by sex and race: United States"
 v4tm-h8pe,HAICViz - MuGSI
 v5gm-kvkn,"Health, United States"
 v5qq-ktfc,"Daily Census Tract-Level PM2.5 Concentrations, 2001-2005"
@@ -1204,7 +1200,6 @@ v728-xui5,DQS NHIS Functioning difficulties footnotes
 v76h-zdce,"Daily Census Tract-Level Ozone Concentrations, 2001-2005"
 v7tk-n6v3,DQS NHANES Select Infectious Diseases Prevalence Estimates
 va5e-efw9,"DQS Hypertension in adults age 20 and older, by selected characteristics: United States."
-vac9-j9wr,"DQS Fetal, late fetal, and perinatal mortality rates, by detailed race and Hispanic origin of mother United States"
 vaca-65fb,National Hospital Care Survey (NHCS) linked to Department of Veterans Affairs Administrative Data Files
 vagq-bwyc,Elevated muscle mass accompanied by transcriptional and nuclear alterations several months following cessation of resistance-type training in rats
 vba9-s8jp,"Nutrition, Physical Activity, and Obesity - Youth Risk Behavior Surveillance System"
@@ -1263,7 +1258,7 @@ wan8-w4er,CDC STATE System E-Cigarette Legislation - Smokefree Indoor Air
 waxm-p5qv,Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (2010 and Prior)
 wcfv-gpn6,Table of Medicaid Barriers to Treatments (Lung Association Cessation Coverage)
 wcwi-x3uk,NNDSS - Table I. infrequently reported notifiable diseases
-wd75-kcmv,"DEV DQS Fetal, late fetal, and perinatal mortality rates, by detailed race and Hispanic origin of mother United States"
+wd75-kcmv,"DQS Fetal, late fetal, and perinatal mortality rates, by detailed race and Hispanic origin of mother United States"
 wepx-mhy6,Exposure to the immunomodulatory chemical triclosan differentially impacts immune cell populations in the skin of haired (BALB/c) and hairless (SKH1) mice
 wff4-m3q3,"NNDSS - TABLE 1T. Invasive pneumococcal disease, Age<5 years, Confirmed to Legionellosis"
 wgvr-7mvz,"COVID-19-associated school closures, United States, February 18–June 30, 2020"
