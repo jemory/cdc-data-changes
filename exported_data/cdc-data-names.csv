@@ -90,6 +90,7 @@ id,name
 3sh4-uqpm,AH Sickle Cell Disease Provisional Death Counts 2019-2021
 3svv-v5nh,"NNDSS - Table 1D. Arboviral diseases, Western equine encephalitis virus disease to Babesiosis"
 3ts8-hsrw,"AH Provisional COVID-19 Deaths by Educational Attainment, Race, Sex, and Age"
+3vip-nfaa,Elk Creek Seismic Waveforms 2012 (Part 18 of 20)
 3x54-3thk,2020 Final Assisted Reproductive Technology (ART) Success Rates
 3yf8-kanr,"Weekly Counts of Deaths by State and Select Causes, 2014-2019"
 42jj-z7fa,"U.S. State and Territorial Public Mask Mandates From April 10, 2020 through July 20, 2021 by County by Day"
@@ -243,12 +244,14 @@ id,name
 767a-qhkg,Water Fluoridation - Percentage of PWS population who receive fluoridated water
 76u3-26ik,Video-Based 3D pose estimation for residential roofing-dataset
 76vv-a7x8,NCHS - VSRR Quarterly provisional estimates for selected birth indicators
+77uj-93ii,Elk Creek Seismic Waveforms 2011 (Part 19 of 19)
 783t-9j9i,dhds_dataset
 7873-6w4v,AH Provisional COVID-19 Deaths Counts by Health Service Area
 7aq9-prdf,"DQS Death rates for heart disease, by sex, race, Hispanic origin, and age: United States from CDC WONDER"
 7b9s-s8ck,"Rates and Trends in Heart Disease and Stroke Mortality Among US Adults (35+) by County, Age Group, Race/Ethnicity, and Sex – 2000-2019"
 7cmc-7y5g,"PLACES: County Data (GIS Friendly Format), 2023 release"
 7dk4-g6vg,Weekly United States COVID-19 Hospitalization Metrics by Jurisdiction – ARCHIVED
+7e86-vpa7,Elk Creek Seismic Waveforms 2012 (Part 13 of 20)
 7ecz-2gu3,"NNDSS - TABLE 1NN. Viral hemorrhagic fevers, Junin virus to Viral hemorrhagic fevers, Lujo virus"
 7ehz-refy,Nerve agent exposure and physiological stress alter brain microstructure and immune profiles after inflammatory challenge in a long-term animal model of Gulf War Illness
 7esm-uptm,TABLE III. Deaths in 122 U.S. cities
@@ -278,6 +281,7 @@ id,name
 8235-5d73,Water Fluoridation Statistics - Percent of PWS population receiving fluoridated water
 82ci-krud,Weekly United States COVID-19 Hospitalization Metrics by County (Historical) – ARCHIVED
 82nv-dn3y,"NNDSS - TABLE 1HH. Syphilis, Congenital to Syphilis, Primary and Secondary"
+82ug-d8mh,Elk Creek Seismic Waveforms 2012 (Part 15 of 20)
 8396-v7yb,United States COVID-19 County Level of Community Transmission as Originally Posted - ARCHIVED
 83hz-w2t5,Table of Medicaid Coverage of Treatments (Lung Association Cessation Coverage)
 83ng-twza,"Weekly Cumulative Estimated Number of Influenza Vaccinations Administered in Pharmacies and Physician Medical Offices, Adults 18 years and older, United States"
@@ -321,6 +325,7 @@ id,name
 8ve6-tiah,Persistence of SARS-CoV-2 on N95 filtering facepiece respirators: implications for reuse
 8vj7-uiam,Characterizing dynamic atmosphere generation system performance for analytical method development
 8w4j-reb4,Vaccination Coverage among Nursing Home Residents
+8wk8-2h8d,Elk Creek Seismic Waveforms 2012 (Part 17 of 20)
 8wmh-yzz9,NHANES Select Mean Dietary Intake Estimates
 8xdf-byx4,"Tuberculosis Epidemiologic Studies Consortium (TBESC)-II Part C: Improving screening, testing, and treatment for latent TB infection (LTBI)"
 8xkx-amqh,"COVID-19 Vaccinations in the United States,County"
@@ -443,6 +448,7 @@ be57-s94j,"DQS Normal weight, overweight, and obesity among adults aged 20 and o
 bfe6-2gyq,"NNDSS - Table II. Mumps to Rabies, animal"
 bfqg-cb6d,Provider Relief Fund COVID-19 Nursing Home Quality Incentive Program
 bgzq-ax8c,Elk Creek Seismic Waveforms 2011 (Part 6 of 19)
+bh72-384a,Elk Creek Seismic Waveforms 2012 (Part 19 of 20)
 bhxw-k5sb,NNDSS - TABLE 1O.  Hansen's disease to Hantavirus pulmonary syndrome
 bi63-dtpu,NCHS - Leading Causes of Death: United States
 bigw-pgk2,Patient Characteristics of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System
@@ -744,6 +750,7 @@ i667-sjhg,NHANES Select Chronic Conditions Prevalence Estimates
 i6ej-9eac,AH Provisional COVID-19 Deaths by Race and Educational Attainment
 i6u4-y3g4,"Non-Medical Factor Measures for County, ACS 2017-2021"
 i7ir-z69g,Mental Health-Related Disparities in Cigarette Smoking Among Adults
+i8qe-aufy,Elk Creek Seismic Waveforms 2012 (Part 14 of 20)
 i8t6-whzd,CDC STATE System E-Cigarette Legislation - Smokefree Indoor Air Summary
 i9qr-47vu,"Percentage of Adults Who Report Driving After Drinking Too Much (in the past 30 days), 2012 & 2014, Region 9 - San Francisco"
 ib3w-k9rq,"PLACES: Census Tract Data (GIS Friendly Format), 2020 release"
@@ -776,6 +783,7 @@ j6gu-p9yd,"NNDSS - TABLE 1BB. Q fever, Total to Q fever, Chronic"
 j7ym-uwqy,"DQS Infant, neonatal, and postneonatal mortality rates, by detailed race and Hispanic origin of mother: United States"
 j8jk-5ztv,BRFSS Prevalence And Trends Data: Tobacco Use - Adults Who Are Current Smokers for 1995-2010
 j9id-xrm6,NNDSS - Table II. Ehrlichiosis/Anaplasmosis
+jat9-pg8m,Elk Creek Seismic Waveforms 2013
 jb9g-gnvr,Indicators of Health Insurance Coverage at the Time of Interview
 jbhn-e8xn,BEAM Dashboard - Report Data
 jbmi-9jqv,dhds_dataset
@@ -1024,8 +1032,10 @@ qdcb-uzft,AH Provisional Diabetes Death Counts for 2020
 qeru-k2y2,VEHSS Modeled Estimates
 qfhf-uhaa,"Weekly Counts of Deaths by Jurisdiction, and Race and Hispanic Origin"
 qfiq-jir6,"Weekly Differences in Cumulative Percentage of Children Ages 6 Months -17 Years who are up to date with the updated 2023-24 COVID-19 Vaccine, by Selected Demographics"
+qfk2-janf,Elk Creek Seismic Waveforms 2010 (Part 7 of 7)
 qfu5-aeqe,National Hospital Care Survey (NHCS) linked to Department of Housing and Urban Development (HUD) Administrative Housing Data
 qg4n-ry9b,Elk Creek Seismic Waveforms 2010 (Part 1 of 7)
+qg7e-ktsu,Elk Creek Seismic Waveforms 2012 (Part 16 of 20)
 qgkx-mswu,Loss of Work Due to Illness from COVID-19
 qisn-zjv7,"NNDSS - TABLE 1L. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection to Giardiasis"
 qjg3-6acf,"DHDS - Prevalence of Disability Status and Types by Demographic Groups, 2021"
@@ -1146,6 +1156,7 @@ swv3-ghj7,"NNDSS - Table II. Hepatitis (viral, acute) C"
 sxbq-3sid,National Weekly Pfizer Allocations
 t3tz-gvpr,Table of Excise Taxes on Non-Combustible Tobacco Products (CDC STATE System Tobacco Legislation - Tax)
 t6u2-f84c,"Mapping Injury, Overdose, and Violence - National"
+t8mc-vgxe,Elk Creek Seismic Waveforms 2012 (Part 20 of 20)
 t984-9cdv,BRFSS Prevalence And Trends Data: Health Care Access/Coverage for 1995-2010
 tcmp-75zb,BRFSS: Graph of Current Adult Obesity Prevalence - Nationwide (States and DC)
 tczv-qfsi,dhds_dataset
