@@ -290,7 +290,7 @@ id,name
 83mw-v57c,DQS NPALS Footnotes
 83ng-twza,"Weekly Cumulative Estimated Number of Influenza Vaccinations Administered in Pharmacies and Physician Medical Offices, Adults 18 years and older, United States"
 847z-pxin,"Daily Census Tract-Level Ozone Concentrations, 2011-2015"
-84rx-ksgd,"Lyme disease public use data with geography, 1992-2007"
+84rx-ksgd,"Lyme disease public use aggregated data with geography, 1992-2007"
 87ea-ip25,NIOSH Health Hazard Evaluation Program Noise Measurement Database
 88eg-qzed,CDC STATE System E-Cigarette Legislation - Preemption Summary
 89qs-mr7i,"Monthly COVID-19 Death Rates per 100,000 Population by Age Group, Race and Ethnicity, Sex, and Region"
@@ -372,6 +372,7 @@ id,name
 9kjw-3miq,"U.S. State and Territorial Orders Closing and Reopening Bars Issued from March 11, 2020 through August 15, 2021 by County by Day"
 9kpc-xntn,Controlled Generation of Peracetic Acid Atmospheres for the Evaluation of Chemical Samplers
 9krc-38hs,Table for STATE System Comprehensive Medicaid Coverage of Cessation Treatments  Interactive Map
+9mtj-y2ba,"Lyme disease public use line-listed data without geography, 2022-2023"
 9mw4-6adp,autism prevalence studies
 9n3x-apcd,NNDSS - Table II. Cryptosporidiosis to Dengue
 9qys-crt2,NNDSS - Table II. Meningococcal disease to Pertussis
@@ -400,6 +401,7 @@ a93x-tfzm,"NNDSS - TABLE 1MM. Viral hemorrhagic fevers, Crimean-Congo hemorrhagi
 a9xa-yrhn,NNDSS - TABLE 1O. Hansen's disease to Hantavirus pulmonary syndrome
 aagc-37gx,"NNDSS - TABLE 1X. Meningococcal disease,  Other serogroups to Meningococcal disease, Unknown serogroup"
 abgz-qs4g,HAICViz - CDI
+abzs-b3gw,"Lyme disease public use line-listed data without geography, 2008-2021"
 acdz-tk8j,NNDSS - Table II. Legionellosis to Malaria
 acme-vg9e,Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) County Prevalence Data (2010 and prior)
 adnf-fpem,Influenza virus induced novel miRNAs regulate the STAT pathway
@@ -565,7 +567,7 @@ dwqk-w36f,NNDSS - Table I. infrequently reported notifiable diseases
 dxpw-cm5u,"500 Cities: City-level Data (GIS Friendly Format), 2019 release"
 dy4n-fbwg,NNDSS - TABLE 1KK. Vancomycin-resistant Staphylococcus aureus to Varicella morbidity
 e28h-tx85,Medicare Fee for Service (FFS) claims (100%) – Vision and Eye Health Surveillance
-e2a5-s9pr,"Lyme disease public use line-listed data without geography, 1997-2007"
+e2a5-s9pr,"Lyme disease public use line-listed data without geography, 1992-2007"
 e2d5-ggg7,VSRR Provisional Maternal Death Counts and Rates
 e4ec-z5aa,"DQS Estimate of Emergency Department Visits in the United States, 2016-2022"
 e539-uadk,"Non-Medical Factor Measures for Census Tract, ACS 2017-2021"
@@ -1063,7 +1065,7 @@ qqyr-vbva,Elk Creek Seismic Waveforms 2011 (Part 9 of 19)
 qr63-vqq5,"Weekly Cumulative Influenza Vaccination Coverage and Comparison Between 2023–24 and 2024–25± by Jurisdiction, Children 6 Months–17 Years, United States"
 qs7e-6i2a,Glove Performance Dermal Absorption of Fentanyl
 qsk4-8yy5,NNDSS - TABLE 1JJ. Tularemia to  Vancomycin-intermediate Staphylococcus aureus
-qtbi-xd4i,"Lyme disease public use data with geography, 2008-2021"
+qtbi-xd4i,"Lyme disease public use aggregated data with geography, 2008-2021"
 qve4-fp9c,Weekly Cumulative Percentage of Adults 60 Years and Older Vaccinated with Respiratory Syncytial Virus (RSV) Vaccine by Jurisdiction
 qvvb-s7gu,"NNDSS - Table II. Rabies, animal to Rubella, congenital syndrome"
 qvzb-qs6p,1998-2023 Serotype Data for Invasive Pneumococcal Disease Cases by Age Group from Active Bacterial Core surveillance
@@ -1346,7 +1348,7 @@ wze2-5h6n,Peracetic acid effects on human bronchial cells in an air liquid inter
 wzwe-859x,"NNDSS - TABLE 1L. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection to Giardiasis"
 x2iq-5477,"NNDSS - Table II. Hepatitis (viral, acute, by type) C"
 x4dz-rafm,dhds_dataset
-x5j9-wybp,"Lyme disease public use data with geography, 2022-2023"
+x5j9-wybp,"Lyme disease public use aggregated data with geography, 2022-2023"
 x66v-w5ka,"Characteristics Associated with Successful Foodborne Outbreak Investigations, NEARS 2014 - 2016"
 x6ag-8y7r,Global Tobacco Surveillance System (GTSS) - Global Health Professions Student Survey (GHPSS)
 x749-vh2i,Healthy People 2020 Final Progress Table
