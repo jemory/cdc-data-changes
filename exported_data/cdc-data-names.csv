@@ -114,7 +114,7 @@ id,name
 4day-mt2f,"Mapping Injury, Overdose, and Violence - Census Tract"
 4ems-va7k,Total Inward Leakage (TIL) for Respiratory Protective Devices
 4ewf-ciy6,"NNDSS - TABLE 1C. Arboviral diseases, St. Louis encephalitis virus to Western equine encephalitis virus"
-4g6p-3ed6,"Weekly Differences in Cumulative Influenza Vaccination Coverage and Comparison Between 2024-25 and 2023-24 Among Adults 18 Years, Overall, by Selected Demographics"
+4g6p-3ed6,"Weekly Differences in Cumulative Influenza Vaccination Coverage by Selected Demographics and by Season 2025–26 and 2025–26 Compared with 2024–25 Among Adults 18 Years, Overall, by Selected Demographics"
 4j6x-nm2a,Projectile Fluid Penetration and Flammability of Respirators and other Head/Facial Personal Protective Equipment (FPFPPE)
 4jje-6vv6,"NNDSS - TABLE 1W. Meningococcal disease, All serogroups to Meningococcal disease, Serogroup B"
 4khb-4xch,Environmental Antecedents of Foodborne Illness Outbreaks
@@ -142,6 +142,7 @@ id,name
 4zc2-9ujh,Animal Contact Exhibits_Legal Epidemiology Research Procedure and Code Book_2016
 4zxn-f9dq,"COVID-19 Cases Among Healthcare Personnel, by week - ARCHIVED"
 52cr-rw4k,NNDSS - Table II. Salmonellosis to Shigellosis
+52ds-xw49,"Weekly Cumulative Estimated Number of RSV Vaccinations Administered in Retail Pharmacies and Physicians' Medical Offices, Adults 50 to 74 Years and 75 years and older, United States"
 52kb-ccu2,Respiratory Syncytial Virus Laboratory Data (NREVSS)
 52kh-2h7i,"NNDSS - TABLE 1AA. Poliovirus infection, nonparalytic to Psittacosis"
 533q-q3rp,ARPSP IQVIA Antibiotic Use
@@ -266,6 +267,7 @@ id,name
 7kht-czfj,"NNDSS - TABLE 1C. Arboviral diseases, St. Louis encephalitis virus to Western equine encephalitis virus"
 7mbm-jety,NNDSS - Table II. Chlamydia to Coccidioidomycosis
 7mra-9cq9,"2023 Respiratory Virus Response - NSSP Emergency Department Visit Trajectories by State- COVID-19, Flu, RSV, Combined"
+7nbz-eajm,"Infant Protection Against Respiratory Syncytial Virus (RSV) by Maternal RSV Vaccination or Receipt of RSV Monoclonal Antibody, and Intent for RSV Monoclonal Antibody Receipt Reported by Females Aged 18-49 Years Who Have an Infant <8 Months During the RSV"
 7njk-uncd,Nowcast Predictions for Local Transmission of Chikungunya Virus
 7nwe-3aj9,"The Tax Burden on Tobacco, 1970-2019"
 7pb7-w9us,NNDSS - Table II. Lyme disease to Meningococcal
@@ -338,7 +340,7 @@ id,name
 8xdf-byx4,"Tuberculosis Epidemiologic Studies Consortium (TBESC)-II Part C: Improving screening, testing, and treatment for latent TB infection (LTBI)"
 8xkx-amqh,"COVID-19 Vaccinations in the United States,County"
 8xy9-ubqz,Access and Use of Telemedicine During COVID-19
-8yup-c35n,"Weekly Differences in Cumulative COVID-19 Vaccination Coverage and Comparison Between 2024–25 and 2023–24 Among Adults 18 Years, Overall, by Selected Demographics"
+8yup-c35n,"Weekly Differences in Cumulative COVID-19 Vaccination Coverage by Selected Demographics and by Season, Among Adults 18 Years, Overall"
 8zak-ewtm,BRFSS Prevalence and Trends Data: Tobacco Use - Four Level Smoking Data for 1995-2010
 8zbb-qqwc,dhds_dataset
 8zea-kwnt,CDC STATE System E-Cigarette Legislation - Youth Access
@@ -446,7 +448,7 @@ b5wa-ze9s,CDT_INDIVIDUAL_LINEAGES_BY_WEEK_LOCAL_PIVOTED
 b68w-a53h,NanoSpotTM Collector for Aerosol Sample Collection for Direct Microscopy and Spectroscopy Analysis-Dataset
 b6fe-yq88,A Field-Portable Colorimetric Method for the Measurement of Peracetic Acid Vapors: A Comparison of Glass and Plastic Impingers
 b6np-zdqj,"NNDSS - TABLE 1HH. Streptococcal toxic shock syndrome to Syphilis, Primary and Secondary"
-b6ny-6cd5,"Monthly Cumulative Number and Percent of Who Received ≥1 Influenza Vaccination Doses and Comparison Between 2024-25 and Two Previous Seasons, by Jurisdiction, United States"
+b6ny-6cd5,"Monthly Cumulative Number and Percent of Children 6 Months-17 Years and Adults 18 Years and Older Who Received 1+ Influenza Vaccination Doses and Comparison Between 2025–-26 and Three Previous Seasons, by Jurisdiction, United States"
 b6sy-qq3u,"NNDSS - Table 1E. Botulism, Foodborne to Botulism, Other (wound & unspecified)"
 b6uq-hdgz,"Cumulative Influenza Vaccination Coverage and Comparison, Adults 18 Years and Older, US, National Immunization Survey-Adult COVID Module"
 b7pe-5nws,COVID-19 Vaccine Distribution Allocations by Jurisdiction - Moderna
@@ -583,7 +585,7 @@ e8kx-wbww,"NCHS - Teen Birth Rates for Females by Age Group, Race, and Hispanic 
 e92c-t3mi,Going Smokefree Matters - Bars and Restaurants Infographic
 e9r5-5hjr,New Chikungunya Cases Reported in the Americas
 ea3z-m7eh,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 7 - Kansas City"
-eanj-9nie,"Weekly Differences in Cumulative COVID-19 Vaccination Coverage and Comparison Between 2024–25 and 2023–24, Overall, by Jurisdiction Among Adults 18 Years"
+eanj-9nie,"Weekly Cumulative COVID-19 Vaccination Coverage Map and Comparison Between 2025–26 and Previous Seasons, Overall, by Jurisdiction Among Adults 18 Years"
 eav7-hnsx,"PLACES: Local Data for Better Health, Place Data 2024 release"
 eb4y-d4ic,CDC STATE System Tobacco Legislation - Licensure
 ebbj-sh54,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, All States"
@@ -618,6 +620,7 @@ etak-um6t,Developing a Method to Estimate Aerosol Generation during Poultry Slau
 eu9y-rrqg,National Post-acute and Long-term Care Study Residential Care Resident File
 eudc-n39h,"Weekly Cumulative Influenza Vaccination Coverage, Children 6 months through 17 years, United States"
 eur4-ng38,High-fat western diet consumption exacerbates silica-induced pulmonary inflammation and fibrosis
+ewpg-rz7g,"Weekly Cumulative Estimated Number of COVID-19 Vaccinations Administered in Retail Pharmacies and Physician Medical Offices, Adults 18 years and older, by Season and Age Group, United States"
 ex65-qa8z,"NNDSS - TABLE 1P. Hemolytic uremic syndrome post-diarrheal to Hepatitis B, acute"
 exds-h9fr,Table of States with Laws Requiring Licenses For Over-the-counter Sales of E-Cigarettes (CDC STATE System E-Cigarette Legislation - Licensure)
 exs3-hbne,"Monthly COVID-19 Death Rates per 100,000 Population by Age Group, Race and Ethnicity, Sex, and Region with Double Stratification"
@@ -880,7 +883,7 @@ krkm-t59m,PONE-D-15-23803
 krqc-563j,"PLACES: Local Data for Better Health, Place Data 2023 release"
 ks3g-spdg,"Provisional COVID-19 Deaths by Race and Hispanic Origin, and Age"
 ksf9-pem2,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 1 - Boston"
-ksfb-ug5d,"Weekly Cumulative COVID-19 Vaccination Coverage and Intent, Overall, by Selected Demographics and Jurisdiction, Among Adults 18 Years and Older"
+ksfb-ug5d,"COVID-19 Vaccination Coverage, Overall and by Selected Demographics and Jurisdiction, Among Adults 18 Years and Older, by Season"
 ktba-rcfx,Data Update Notice
 ku7p-zn4c,"Monthly Cumulative Number and Percent of Children <20 Months Who Received Nirsevimab by Age Group and Jurisdiction, United States"
 kuas-t2xn,"MicroRNA-Mediated Krüppel-Like Factor 4 upregulation Induces Alternatively Activated Macrophage-Associated Markers and Chemokines Transcription in 4,4’-Methylene Diphenyl Diisocyanate Exposed Macrophages"
@@ -908,6 +911,7 @@ mbsb-z5f8,"NNDSS - Table II. Invasive Pneumococcal Diseases, All Ages"
 mbvg-apdj,Graph of Tobacco Use 3 Months Before and Last 3 Months of Pregnancy
 mc4y-cbbv,"NCHS - Top Five Leading Causes of Death: United States, 1990, 1950, 2000"
 mcdp-77g7,"NNDSS - TABLE 1AA. Poliovirus infection, nonparalytic to Psittacosis"
+mcvh-596h,"Weekly Differences in Cumulative RSV Vaccination Coverage Among Adults 75 and Older and 60-74 Years with High-Risk Conditions Ever Vaccinated with RSV Vaccine, Overall, by Selected Demographics"
 mfvi-hkb9,Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County – 2015-2017
 mg59-88ii,Elk Creek Seismic Waveforms 2011 (Part 12 of 19)
 mhj9-4wi2,US Census Methodology
@@ -932,6 +936,7 @@ mr8w-325u,Deaths in 122 U.S. cities - 1962-2016. 122 Cities Mortality Reporting 
 mrip-2k2a,"NNDSS - TABLE 1S. Invasive pneumococcal disease, all ages, Confirmed to Invasive pneumococcal disease, all ages, Probable"
 mscq-ew9n,Evaluation of the fall protection of Type I industrial helmets
 msjj-a7q2,"Percentage of Drivers and Front Seat Passengers Wearing Seat Belts, 2012 & 2014, Region 10 - Seattle"
+msnx-y6hi,"Weekly Cumulative RSV Vaccination Coverage, by Race and Ethnicity, Medicare Fee-For-Service Beneficiaries aged ≥75 years and Enrolled in a Part D plan, United States, Data Source: Centers for Medicare & Medicaid Services Chronic Conditions Warehouse"
 mssc-ksj7,"PLACES: County Data (GIS Friendly Format), 2020 release"
 mtc3-kq6r,2020-2021 Nationwide Blood Donor Seroprevalence Survey Infection-Induced Seroprevalence Estimates
 mtgp-t7vw,"DQS Use of selected substances in the past 30 days among 12th graders, 10th graders, and 8th graders, by sex and race: United States."
@@ -1066,7 +1071,7 @@ qktg-6dmb,National Health and Aging Trends Study (NHATS) – Vision and Eye Heal
 qnzd-25i4,"PLACES: Local Data for Better Health, ZCTA Data 2024 release"
 qpq4-k3td,"NNDSS - TABLE 1L. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection to Giardiasis"
 qqyr-vbva,Elk Creek Seismic Waveforms 2011 (Part 9 of 19)
-qr63-vqq5,"Weekly Cumulative Influenza Vaccination Coverage and Comparison Between 2023–24 and 2024–25± by Jurisdiction, Children 6 Months–17 Years, United States"
+qr63-vqq5,"Weekly Cumulative Influenza Vaccination Coverage and Comparison Between 2025–26 and Previous Seasons± by Jurisdiction, Children 6 Months–17 Years, United States"
 qs7e-6i2a,Glove Performance Dermal Absorption of Fentanyl
 qsk4-8yy5,NNDSS - TABLE 1JJ. Tularemia to  Vancomycin-intermediate Staphylococcus aureus
 qtbi-xd4i,"Lyme disease public use aggregated data with geography, 2008-2021"
@@ -1443,7 +1448,7 @@ ypxr-mz8e,"AH Provisional COVID-19 Deaths by Quarter, County and Age for 2020"
 yqwx-bvu7,NNDSS - Table II. Invasive Pneumococcal to Legionellosis
 yqy5-yp9r,Elk Creek Seismic Waveforms 2011 (Part 2 of 19)
 yrur-wghw,"Provisional COVID-19 death counts and rates by month, jurisdiction of residence, and demographic characteristics"
-ysd3-txwj,"Weekly Cumulative Estimated Number of Influenza Vaccinations Administered in Pharmacies and Physician Medical Offices, Adults 18 years and older, by Flu Season and Age Group, United States"
+ysd3-txwj,"Weekly Cumulative Estimated Number of Influenza Vaccinations Administered in Retail Pharmacies and Physicians’ Medical Offices, by Influenza Season and Age Group, Adults 18 years and older, United States"
 yt7u-eiyg,NCHS - Birth Rates for Females by Age Group: United States
 yu68-juzt,Anthropometry of Law Enforcement Officers
 yvdd-g9b2,Table of States with Laws Prohibiting Sales of E-Cigarettes to Minors (CDC STATE System E-Cigarette Legislation - Youth Access)
