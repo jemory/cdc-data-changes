@@ -155,7 +155,6 @@ id,name
 54ys-qyzm,Rates of COVID-19 Cases or Deaths by Age Group and Updated (Bivalent) Booster Status
 5522-8u8z,Elk Creek Seismic Waveforms 2011 (Part 5 of 19)
 5586-cehn,National Survey of Residential Care Facilities - Restricted Resident-Level Dataset
-55k8-ajvf,"National Ambulatory Medical Care Survey, Health Center Component, Preliminary Estimates dashboard"
 55uq-699y,"Weekly Cumulative RSV Vaccination Coverage, by Race and Ethnicity, Medicare Fee-For-Service Beneficiaries aged ≥65 years, United States, Data Source: Centers for Medicare & Medicaid Services Chronic Conditions Warehouse"
 55yu-xksw,Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County – 2019-2021
 56mi-d4wu,NNDSS - TABLE 1GG. Smallpox to Streptococcal toxic shock syndrome
@@ -337,7 +336,7 @@ id,name
 8rsa-pnhx,"NNDSS - TABLE 1F. Brucellosis to Candida auris, clinical"
 8s4r-kzwb,Table of Preemption on Smokefree Indoor Air (CDC STATE System Tobacco Legislation - Preemption)
 8u74-z25n,DASH YRBSS - Did not participate in 60 minutes of activity 1x/weekly (MS)
-8ucz-ra9b,"National Hospital Ambulatory Medical Care Survey, 1992-2021, Restricted"
+8ucz-ra9b,"National Hospital Ambulatory Medical Care Survey, 1992-2022, Restricted-data"
 8v6a-z6zq,American Rescue Plan (ARP) Rural Payments
 8ve6-tiah,Persistence of SARS-CoV-2 on N95 filtering facepiece respirators: implications for reuse
 8vj7-uiam,Characterizing dynamic atmosphere generation system performance for analytical method development
@@ -369,7 +368,7 @@ id,name
 9cpv-whbv,"Weekly counts of deaths from all causes by jurisdiction,  2015-2019"
 9d9z-vf8f,"NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection to Ehrlichia chaffeensis infection"
 9dzk-mvmi,"Monthly Provisional Counts of Deaths by Select Causes, 2020-2023"
-9f67-8jse,National Hospital Discharge Survey (NHDS) 1970-2010
+9f67-8jse,"National Hospital Discharge Survey 1970-2010, public-use data"
 9fpg-7hvw,NCHS Survey Data Linked to Centers for Medicare & Medicaid Services (CMS) 1999-2013 Medicare Data
 9g7x-sfq4,NNDSS - Table III. Tuberculosis
 9gay-j69q,"Obesity among children and adolescents aged 2–19 years, by selected characteristics: United States"
@@ -689,7 +688,7 @@ g653-rqe2,NWSS Public SARS-CoV-2 Concentration in Wastewater Data
 g6fu-zp23,"NNDSS - TABLE 1N. Haemophilus influenzae, invasive disease, Age <5 years, Non-b serotype to Unknown serotype"
 g6qk-ngsf,NCHS - Births to Unmarried Women by Age Group: United States
 g76d-z8vy,NCHS Research and Development Survey (RANDS) Round 2 during COVID-19 probability sampled Restricted File
-g795-gzp9,"National Ambulatory Medical Care Survey, Health Center Component, 2021-2023, restricted data"
+g795-gzp9,"National Ambulatory Medical Care Survey, Health Center Component, 2021-2024, restricted data"
 g7hk-rc8d,"AH Provisional COVID-19 Deaths by Week, Place of Death, and Age"
 g7ty-3t6s,Efficacy of Do-It-Yourself Air Filtration Units in Reducing Exposure to Simulated Respiratory Aerosols
 g9dy-mhts,Youth And Tobacco Use Infographic
@@ -798,6 +797,7 @@ igaz-icki,National Artesunate for Severe Malaria Program Case Report Data- April
 ihtq-qs57,National Survey of Family Growth 2017-2019 Public-Use Files
 ijqb-a7ye,Vaccination Coverage and Exemptions among Kindergartners
 ijr5-qdv2,"National Hospital Care Survey 2013-2016, 2019-2021, restricted data"
+ik4a-qfxi,"National Ambulatory Medical Care Survey Culturally and Linguistically Appropriate Services, 2016, public-use data"
 ikd3-vynf,AH Provisional COVID-19 Deaths by Week and Age
 iqm3-hbev,DQS NHANES Footnotes
 ircd-wk4g,Diabetes State Burden Toolkit - Health Burden
