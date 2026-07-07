@@ -14,7 +14,7 @@ id,name
 28km-nz6e,"Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, Region 4 - Atlanta"
 2993-4v7d,NNDSS - TABLE 1II. Tetanus to Trichinellosis
 29ew-qk7z,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 3 - Philadelphia"
-29hc-w46k,Weekly Rates of Laboratory-Confirmed RSV Hospitalizations from the RSV-NET Surveillance System
+29hc-w46k,RSV-NET Rates and Clinical Data
 29js-qshz,"NNDSS - TABLE 1J. Dengue virus infections, Dengue to Severe dengue"
 29xv-7ajw,NNDSS - TABLE 1KK. Vancomycin-intermediate Staphylococcus aureus to Varicella morbidity
 2den-c3u2,"Cumulative Influenza Vaccination Coverage Differences by Race/Ethnicity, Children 6 months through 17 years, United States"
@@ -216,7 +216,7 @@ id,name
 6dep-qtzm,"NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum infection to Ehrlichia chaffeensis infection"
 6i2x-3kw3,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, Region 5 - Chicago"
 6ie8-bpiy,"NNDSS - TABLE 1HH. Syphilis, Congenital to Syphilis, Primary and Secondary"
-6jg4-xsqq,Weekly Rates of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System
+6jg4-xsqq,COVID-NET Rates and Clinical Data
 6jgb-zrsp,NNDSS - Table II. Spotted Fever Rickettsiosis to Syphilis
 6jwg-4k37,"PLACES: ZCTA Data (GIS Friendly Format), 2024 release"
 6k6h-dzju,National Survey of Residential Care Facilities - Restricted Facility-Level Dataset
@@ -482,7 +482,6 @@ bgzq-ax8c,Elk Creek Seismic Waveforms 2011 (Part 6 of 19)
 bh72-384a,Elk Creek Seismic Waveforms 2012 (Part 19 of 20)
 bhxw-k5sb,NNDSS - TABLE 1O.  Hansen's disease to Hantavirus pulmonary syndrome
 bi63-dtpu,NCHS - Leading Causes of Death: United States
-bigw-pgk2,Patient Characteristics of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System
 biid-68vb,Science Clips
 binw-6h77,Military Health System (MHS) - Vision and Eye Health Surveillance System (VEHSS)
 bjsc-yd7n,"Percentage of Adults Who Report Driving After Drinking Too Much (in the past 30 days), 2012 & 2014, Region 3 - Philadelphia"
@@ -525,7 +524,6 @@ cchw-gdwa,2022 Final Assisted Reproductive Technology (ART) Success Rates
 cd8h-y37e,Elk Creek Seismic Waveforms 2010 (Part 3 of 7)
 cds4-6y7t,NNDSS - Table 1G. Carbapenemase-producing carbapenem-resistant Enterobacteriaceae to Chlamydia trachomatis infection
 ce73-p89e,Graph of Daily Multivitamin Use Just Prior to Pregnancy
-cf5u-bm9w,Monthly Rates of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System
 cgmy-fcv3,Elk Creek Seismic Waveforms 2012 (Part 1 of 20)
 cgyi-zgdr,Elk Creek Seismic Waveforms 2012 (Part 10 of 20)
 ch5i-63ve,RESP-LENS
@@ -1036,7 +1034,6 @@ p8tr-pquj,SAMHSA Synar Reports: Youth Tobacco Sales Glossary and Methodology
 paqx-33a8,"NNDSS - TABLE 1HH. Syphilis, Congenital to Syphilis, Primary and Secondary"
 pb4z-432k,NNDSS - Table I. infrequently reported notifiable diseases
 pbkm-d27e,NCHS - Drug Poisoning Mortality by County: United States
-pbq2-7wr2,Monthly Rates of Laboratory-Confirmed RSV Hospitalizations from the RSV-NET Surveillance System
 pd5g-36s6,dhds_dataset
 pf7q-w24q,"500 Cities: City-level Data (GIS Friendly Format), 2018 release"
 pgaa-i327,Systemic and immunotoxicity induced by topical application of perfluorohexane sulfonic acid (PFHxS) in a murine model
