@@ -93,7 +93,7 @@ id,name
 3yf8-kanr,"Weekly Counts of Deaths by State and Select Causes, 2014-2019"
 42jj-z7fa,"U.S. State and Territorial Public Mask Mandates From April 10, 2020 through July 20, 2021 by County by Day"
 42pu-ymxu,National Hospital Care Survey (NHCS) linked to Centers for Medicare & Medicaid (CMS) Medicare Data
-435k-2whj,"Daily Grouped Pollen Concentrations (Trees and Weeds) for Select US Cities, 2003-2024"
+435k-2whj,"Daily Grouped Pollen Season Timing and Pollen Concentrations (Trees and Weeds) for Select United States Cities, 2003-2024"
 44rk-q6r2,NCHS - Drug Poisoning Mortality by State: United States
 45b4-9j7u,NNDSS - Table I. infrequently reported notifiable diseases
 45cq-cw4i,CDC Wastewater Data for RSV
@@ -285,6 +285,7 @@ id,name
 7xhe-mv2e,"NNDSS - TABLE 1V. Malaria to Measles, Indigenous"
 7xva-uux8,"NSSP Emergency Department Visits - COVID-19, Flu, RSV, Combined – by Demographic Category"
 7xvh-y5vh,"U.S. State and Territorial Gathering Bans: March 11, 2020-August 15, 2021 by County by Day"
+7xz4-qgju,"Historical Averages of Taxa-Specific Pollen Season Timing and Concentrations for Select United States Cities, 2003-2024"
 7ym9-zzt7,NHIS—Teen Restricted Use File
 7yww-23y7,BRFSS: Graph of Current Prevalence of Diabetes
 7zky-in8p,"Percentage of Adults Who Report Driving After Drinking Too Much (in the past 30 days), 2012 & 2014,  Region 10 - Seattle"
@@ -469,7 +470,7 @@ bdsk-unrd,"PLACES: ZCTA Data (GIS Friendly Format), 2020 release"
 be57-s94j,"DQS Normal weight, overweight, and obesity among adults aged 20 and over, by selected characteristics: United States (Archived)"
 bfe6-2gyq,"NNDSS - Table II. Mumps to Rabies, animal"
 bfqg-cb6d,Provider Relief Fund COVID-19 Nursing Home Quality Incentive Program
-bgxp-nxmn,"Weekly Grouped Pollen Concentrations (Trees and Weeds) for Select United States Cities, 2003-2024"
+bgxp-nxmn,"Weekly Grouped Pollen Season Timing and Concentrations (Trees and Weeds) for Select United States Cities, 2003-2024"
 bgzq-ax8c,Elk Creek Seismic Waveforms 2011 (Part 6 of 19)
 bh72-384a,Elk Creek Seismic Waveforms 2012 (Part 19 of 20)
 bhxw-k5sb,NNDSS - TABLE 1O.  Hansen's disease to Hantavirus pulmonary syndrome
@@ -1142,6 +1143,7 @@ rnvb-cpxx,"Adult Tobacco Consumption In The U.S., 2000-Present"
 rpjd-ejph,TABLE III. Deaths in 122 U.S. cities
 rppv-wbiv,Top syndicated pages from CDC.gov by weekly page views
 rpvx-m2md,NCHS - Drug Poisoning Mortality by County: United States
+rq2k-zaqh,"Yearly Taxa-Specific Pollen Season Timing and Concentrations for Select United States Cities, 2003-2024"
 rq85-buyi,Monthly Page Views to CDC.gov
 rqg5-mkef,"Motor Vehicle Occupant Death Rate, by Age and Sex, 2012 & 2014, All States"
 rrzj-z5ca,NCHS Survey Data Linked to Centers for Medicare & Medicaid Services (CMS) 2019-2021 Medicare Data Files
