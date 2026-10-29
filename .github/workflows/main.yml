@@ -19,10 +19,15 @@ jobs:
      with:
        fetch-depth: 0
        
+   - name: Set up Python
+     uses: actions/setup-python@v6
+     with:
+       python-version: '3.12'
+
    # Step 2: Install requirements, so Python script can run
    - name: Install requirements
      # this may change depending on how we handle dependencies
-     run: pip install -r requirements.txt
+     run: python -m pip install -r requirements.txt
 
 
    # Step 3   
